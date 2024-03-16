@@ -1,0 +1,38 @@
+EJERCICIOS PRACTICOS
+
+1. Una agencia de alquiler de autos cobra la hora de uso del vehículo a un valor determinado.
+Si el cliente usa el carro por más de 10 horas, le hacen un descuento del 20% por cada hora de más.
+Haga un programa que lea horas de uso, valor hora, y determine el total a pagar.
+
+2. Leer el código de un empleado, el valor de la hora y el número de horas trabajadas en la semana.
+Calcule el salario semanal, teniendo en cuenta que si trabaja más de 48 horas le debe pagar un 35% de recargo por cada hora de más.
+
+3. Lea dos números NRO1 y NRO2 y escriba ambos números sólo si son de diferente signo y distintos de cero.
+
+4. Se tiene un código, número de artículos vendidos y el valor de cada artículo.
+Calcule el valor de la compra, tiendo en cuenta lo siguiente: compra 50 o más artículos se le da al cliente 10% de descuento; si la compra es menor de 50 artículos no se hace descuento. Mostrar el código, el total de la venta y el valor del descuento.
+
+5. Un cliente tiene una inversión en el banco.
+El decidirá reinvertir con los intereses siempre y cuando estos excedan a $100.000, sino solo dejará el capital. Desea saber cuánto dinero tendrá finalmente en su cuenta. Se lee el valor invertido (que debe ser máximo de $90.000) y la tasa de interés.
+
+6. Realizar un ciclo for que imprima el siguiente patrón en forma de arbolito:
+
+*
+
+**
+
+***
+
+****
+
+*****
+
+******
+
+7. Realizar un algoritmo que muestre los multiplos de 5 comprendidos entre 13 y 48.
+
+8. Mostrar los números comprendidos entre 1 y 30 exceptuando los múltiplos de 3
+
+9. Mostrar los números pares entre 1 y 20, luego la suma de dichos números pares.
+
+10. Leer una palabra, mostrar cuantas vocales tiene

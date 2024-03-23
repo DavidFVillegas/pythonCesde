@@ -1,3 +1,6 @@
+def print(param):
+    pass
+
 print('Hola mundo')
 
 # Variables y tipos de datos
@@ -36,6 +39,9 @@ else:
     print("No eres mayor de edad.")
 
 # Bucles
+def range(param, param1):
+    pass
+
 for numero in range(1, 6):
     print(numero)
 

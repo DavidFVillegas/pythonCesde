@@ -31,4 +31,3 @@ print(frutas_favoritas)
 # Ordenar la lista
 frutas_favoritas.sort()
 print(frutas_favoritas)
-

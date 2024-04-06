@@ -1,6 +1,8 @@
-# 3. Crea un juego parecido a piedra, papel o tijeras, algo así como adivina la respuesta correcta o lo que se te ocurra.
+# 3. Crea un juego parecido a piedra, papel o tijeras,
+#  algo así como adivina la respuesta correcta o lo que se te ocurra.
 
 import random
+
 
 def juego_adivinanza():
     numero_secreto = random.randint(1, 10)
@@ -20,5 +22,6 @@ def juego_adivinanza():
         else:
             print(f"Felicidades! Has adivinado el número en {intentos} intentos.")
             break
+
 
 juego_adivinanza()

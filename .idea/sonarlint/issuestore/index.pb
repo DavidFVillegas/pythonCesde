@@ -25,3 +25,17 @@ X
 (marzo16/semana3-ejercicios/ejercicio9.py,b\5\b5e37bc8b5ba38f04e5f187c84a639d63302fd80
 Y
 )marzo16/semana3-ejercicios/ejercicio10.py,1\6\16884eca0633a962ef0c83108d4cfc4acd09cdb3
+J
+marzo16/6_condicionales.py,d\8\d8cb4af60e440e4fc8ef719a17adf453fcd3b2eb
+U
+%marzo23/semana4-ejercicios/ejercicios,9\2\92625a832ae30f64e3c09aadaa2f20e6329e2480
+X
+(marzo23/semana4-ejercicios/ejercicio1.py,d\b\dbb8130b8c265855289b791ef0cb56f7d88b5a54
+X
+(marzo23/semana4-ejercicios/ejercicio2.py,8\9\89a22c55ccbe3ecd442412d8821513957b9e3a63
+X
+(marzo23/semana4-ejercicios/ejercicio3.py,9\f\9f94e92811917f88ebd680dfb384f89468902a60
+X
+(marzo23/semana4-ejercicios/ejercicio4.py,7\c\7ce3c97f4bf34066e0b94d2f9e69931d2061bf4b
+?
+pythonCesde.iml,5\c\5c42ae2d6d4be8803c0e89bd38210b600865d2b8

@@ -7,4 +7,8 @@ datos = {
 
 df = pd.DataFrame(datos)
 
-print(df)
+primer_trimestre = df[df['Mes'].isin(['Enero', 'Febrero', 'Marzo'])]
+
+total_ventas = primer_trimestre['Ventas'].sum()
+
+print(total_ventas)

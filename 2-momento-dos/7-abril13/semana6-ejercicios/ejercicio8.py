@@ -9,4 +9,6 @@ datos = {
 
 df = pd.DataFrame(datos)
 
+df['Promedio'] = df[['Ciencias', 'Matemáticas', 'Historia']].mean(axis=1)
+
 print(df)

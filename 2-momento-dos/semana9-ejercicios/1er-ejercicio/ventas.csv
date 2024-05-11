@@ -1,0 +1,19 @@
+fecha,producto,categoria,ventas,mes
+2024-01-02,Smartwatch,Electronica,1600,1
+2024-01-06,Tablet,Electronica,1300,1
+2024-02-11,Portátil,Electronica,900,2
+2024-03-03,Radio,Electronica,2600,3
+2024-03-09,Impresora,Electronica,1900,3
+2024-04-21,Smart TV,Electronica,700,4
+2024-05-11,Consola de juegos,Electronica,800,5
+2024-06-02,Smartphone,Electronica,500,6
+2024-06-06,Audífonos,Electronica,1000,6
+2024-07-13,Tablet,Electronica,1400,7
+2024-07-19,Portátil,Electronica,1700,7
+2024-08-26,Radio,Electronica,2900,8
+2024-09-03,Smartwatch,Electronica,600,9
+2024-09-09,Impresora,Electronica,1800,9
+2024-10-21,Smart TV,Electronica,900,10
+2024-11-11,Consola de juegos,Electronica,1100,11
+2024-12-21,Smartphone,Electronica,1600,12
+2024-12-26,Audífonos,Electronica,3100,12

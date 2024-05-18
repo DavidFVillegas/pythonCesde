@@ -1,0 +1,9 @@
+Producto,Cantidad,Precio,Valor_Unitario,Vendedor,Ventas_Septiembre,Ventas_Octubre,Ventas_Noviembre,Ventas_Trimestre,Comisiones_Septiembre,Comisiones_Octubre,Comisiones_Noviembre
+Café,400,45,18000,Nefalda Rico,21600000,1620,21601620,43203240,1080,1440,1440
+Arroz,70,145,10150,Crestina Pico,12180000,913.5,12180913.5,24361827,609,812,812
+Frijol,90,245,22050,Amapola Duarte,26460000,1984.5,26461984.5,52923969,1323,1764,1764
+Leche,100,345,34500,Dinurcio Gomez,41400000,3105,41403105,82806210,2070,2760,2760
+Atún,80,445,35600,Serafino Tobón,42720000,3204,42723204,85446408,2136,2848,2848
+Queso,75,545,40875,Cafilo Florez,49050000,3678.75,49053678.75,98107357.5,2452.5,3270,3270
+
+

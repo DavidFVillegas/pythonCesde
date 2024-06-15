@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
 
-# 1. Cargar los datos (reemplaza con tus datos reales)
+# 1. Cargar los datos
 data = {
     'comentario': ["Me encantó este producto, es genial!", "No me gustó para nada, muy mala calidad.", "Es un producto decente, pero podría mejorar.", "Excelente servicio al cliente, muy satisfecho.", "No lo recomiendo, no vale la pena el precio."],
     'calificacion': [5, 1, 3, 5, 2],
@@ -11,7 +11,7 @@ data = {
 
 df = pd.DataFrame(data)
 
-# 2. Palabras clave para análisis de sentimiento (puedes personalizarlas)
+# 2. Palabras clave para análisis de sentimiento
 positive_words = ['encantado', 'genial', 'excelente', 'satisfecho', 'bueno', 'rápido', 'recomiendo', 'me gusta', 'feliz']
 negative_words = ['no me gustó', 'mala calidad', 'no recomiendo', 'no vale', 'pésimo', 'terrible', 'horrible', 'decepcionado']
 

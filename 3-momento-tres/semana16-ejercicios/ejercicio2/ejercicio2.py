@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# 1. Crear datos de ejemplo (reemplaza con tus datos reales)
+# 1. Crear datos
 np.random.seed(42)  # Para reproducibilidad
 
 num_ubicaciones = 5

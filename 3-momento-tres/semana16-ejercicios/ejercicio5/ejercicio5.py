@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 1. Crear DataFrames de ejemplo (reemplaza con tus datos reales)
+# 1. Crear DataFrames
 np.random.seed(42)
 n_products = 10
 n_users = 50

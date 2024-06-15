@@ -18,7 +18,7 @@ transacciones_data = {
     'id_producto': [1, 3, 2, 4, 5],
     'id_usuario': [101, 103, 102, 105, 104],
     'fecha': ['2024-05-15', '2024-05-12', '2024-05-18', '2024-05-22', '2024-05-13'],
-    'cantidad': [2, 1, 1, 1, 3]  # Cantidad de productos comprados
+    'cantidad': [2, 1, 1, 1, 3]
 }
 
 resenas_data = {
